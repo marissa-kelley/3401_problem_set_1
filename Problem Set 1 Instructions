@@ -1,0 +1,18 @@
+Problem Set 1 Instructions
+Exploratory data analytics problems often begin not with data, but with a guiding question that you must collect data to answer. For this problem, you will assume the role of a hiring manager researching a potential employee. During class on Wednesday, you will be assigned one person to identify five different facts about that person using five different sources. While Facebook and Twitter count as distinct source, please note that different portions of a Facebook profile do not count as distinct. 
+
+For your submission, please list each fact and the source that fact came from. Please also keep these facts both objective and professional, your goal is to collect information to inform your hiring decisions.
+
+Version control is an important tool for any major project. Describe three scenarios in which using version control would help you manage a project. For each scenario, be sure to describe the situation, note the issues not using version control would cause, and how you would use version control to avoid the issue.
+Create a new repository on GitHub. Then, manipulate your repository such that your commit history shows the following (in order):
+
+Adding two files with some content (the specific content does not matter)
+Changing the content of one of those files
+Removing one file
+For your submission, include a link to the repository such that I can see it (and make sure your commits show up on the web interface). Note that it’s ok if there are additional steps sprinkled throughout as you learn to use the system. However, please use informative commit messages such that I can easily find the commits that map to each step.
+
+Merging is an important part of dealing with version control across individuals. Exchange URLs for your repository with someone else in class. Then, you should both make a change to that file at the same time and commit the change to the repo at the same time. Describe what happens when you push your changes.
+
+Now, work together to fix any issues that arise in your pushes such that both sets of changes make it into the file. How did you resolve these issues?
+
+What strategies might you use when architecting and managing a collaborative project that may help you make the best use of version control? Name at least three and discuss why you think they'll be helpful.
