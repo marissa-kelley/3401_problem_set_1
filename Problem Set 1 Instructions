@@ -4,12 +4,14 @@ Exploratory data analytics problems often begin not with data, but with a guidin
 For your submission, please list each fact and the source that fact came from. Please also keep these facts both objective and professional, your goal is to collect information to inform your hiring decisions.
 
 Version control is an important tool for any major project. Describe three scenarios in which using version control would help you manage a project. For each scenario, be sure to describe the situation, note the issues not using version control would cause, and how you would use version control to avoid the issue.
+
 Create a new repository on GitHub. Then, manipulate your repository such that your commit history shows the following (in order):
 
 Adding two files with some content (the specific content does not matter)
 Changing the content of one of those files
 Removing one file
-For your submission, include a link to the repository such that I can see it (and make sure your commits show up on the web interface). Note that it’s ok if there are additional steps sprinkled throughout as you learn to use the system. However, please use informative commit messages such that I can easily find the commits that map to each step.
+
+For your submission, include a link to the repository such that I can see it (and make sure your commits show up on the web interface). 
 
 Merging is an important part of dealing with version control across individuals. Exchange URLs for your repository with someone else in class. Then, you should both make a change to that file at the same time and commit the change to the repo at the same time. Describe what happens when you push your changes.
 
